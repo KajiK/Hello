@@ -11,9 +11,8 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Start () {
 
 		Debug.Log("Hello World!");
-		Debug.Log("これがUnityらしいです。ねむい。");
-		Debug.Log("ねむmi2");
-
+		Debug.Log("これがユニテー");
+		
 		int    i  = 10;   //整数型
 		double d  = 1.0;  //実数型
 		bool   b  = true; //論理値型
