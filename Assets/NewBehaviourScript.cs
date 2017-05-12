@@ -13,6 +13,7 @@ public class NewBehaviourScript : MonoBehaviour {
 		Debug.Log("Hello World!");
 		Debug.Log("これがUnityらしいです。ねむい。");
 		Debug.Log("くそねむい。");
+		Debug.Log("くそねむい2");
 
 		int    i  = 10;   //整数型
 		double d  = 1.0;  //実数型
