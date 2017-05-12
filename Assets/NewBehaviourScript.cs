@@ -12,6 +12,11 @@ public class NewBehaviourScript : MonoBehaviour {
 
 		Debug.Log("Hello World!");
 		Debug.Log("これがユニテー");
+
+
+		
+		Debug.Log("追加下ヨーーーーー");
+
 		
 		int    i  = 10;   //整数型
 		double d  = 1.0;  //実数型
